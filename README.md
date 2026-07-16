@@ -34,7 +34,7 @@
 ### 安装与启动 / Install & Launch
 ```bash
 # 1. 克隆项目 / Clone the repo
-git clone https://github.com/yourusername/local-scholar.git
+git clone https://github.com/kinoex/LocalScholarz-.git
 cd local-scholar
 
 # 2. 安装Python依赖 / Install Python dependencies
