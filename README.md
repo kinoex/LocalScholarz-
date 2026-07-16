@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/local-scholar)](https://github.com/yourusername/local-scholar)
+[![Stars](https://img.shields.io/github/stars/kineox/local-scholar)](https://github.com/kineox/local-scholar)
 
 > 🔒 **本地部署 Local Deployment** · 🕸️ **知识图谱 Knowledge Graph** · 💬 **智能问答 Intelligent Q&A**
 > 让AI帮你精读论文，数据永远留在你的电脑里。
@@ -34,7 +34,7 @@
 ### 安装与启动 / Install & Launch
 ```bash
 # 1. 克隆项目 / Clone the repo
-git clone https://github.com/kinoex/LocalScholarz-.git
+git clone https://github.com/kineox/local-scholar.git
 cd local-scholar
 
 # 2. 安装Python依赖 / Install Python dependencies

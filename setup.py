@@ -10,7 +10,7 @@ setup(
     description="纯本地论文精读助手，支持知识图谱和智能问答",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/local-scholar",
+    url="https://github.com/kineox/local-scholar",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
